@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Guangzhou University.
+- 🔭 I’m currently studying in Guangzhou University.
 - 🌱 I’m currently learning Java.
-- 💬 Ask me about 菜鸭
-- 📫 How to reach me: CSDN:https://blog.csdn.net/qq_45740349 LeetCode:https://leetcode.cn/u/mp1256/
+- 💬 Ask me about 菜鸭.
+- 📫 How to reach me: CSDN:https://blog.csdn.net/qq_45740349
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mp-ui&show_icons=true&theme=tokyonight)
 
