@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Guangzhou University.
+- 🌱 I’m currently learning Java.
+- 💬 Ask me about 菜鸭
+- 📫 How to reach me: CSDN:https://blog.csdn.net/qq_45740349 LeetCode:https://leetcode.cn/u/mp1256/
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mp-ui&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mp-ui)
+
 <!--
 **mp-ui/mp-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
